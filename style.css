@@ -68,6 +68,10 @@ h2{
   border-radius: 10px;
 }
 
+.experience h1{
+  padding: 0 0 0 5%;
+}
+
 #full-stack-item{
   border-left: 7px solid;
   border-image: linear-gradient(rgb(197, 80, 243),rgb(104, 203, 243),white);
